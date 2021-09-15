@@ -1,0 +1,11 @@
+{
+  "name": "countries-lookup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sorinraduta/countries-lookup.git",
+  "author": "Sorin Raduta <sorinradutaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "country-code-lookup": "^0.0.19"
+  }
+}
